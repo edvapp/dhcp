@@ -2,5 +2,6 @@ ddns-keys
 dhclient*
 *~
 .dropbox*
+debug
 
 
