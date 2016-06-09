@@ -3,5 +3,5 @@ dhclient*
 *~
 .dropbox*
 debug
-
+dhcpd.conf.original
 
