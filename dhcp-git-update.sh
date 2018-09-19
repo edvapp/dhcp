@@ -22,7 +22,7 @@ echo "## systemctl status isc-dhcp-server.service    #"
 echo "################################################"
 sudo systemctl status isc-dhcp-server.service
 
-echo "################################################"
-echo "## journalctl -u isc-dhcp-server.service       #"
-echo "################################################"
-sudo journalctl -u isc-dhcp-server.service
+#echo "################################################"
+#echo "## journalctl -u isc-dhcp-server.service       #"
+#echo "################################################"
+#sudo journalctl -u isc-dhcp-server.service
